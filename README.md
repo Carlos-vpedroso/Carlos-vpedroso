@@ -84,8 +84,10 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carlos-vpedroso&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-vpedroso&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carlos-vpedroso&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-vpedroso&layout=compact&theme=dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Carlos-vpedroso&theme=react-dark)
+
 
 ---
 
@@ -93,4 +95,4 @@
 
 📍 São Sebastião do Paraíso/MG  
 📧 **carlosvp8@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
+💼 [LinkedIn](https://www.linkedin.com/in/carlos-pedroso-876951257)  
