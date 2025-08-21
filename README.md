@@ -86,7 +86,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carlos-vpedroso&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-vpedroso&layout=compact&theme=dark)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Carlos-vpedroso&theme=dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Carlos-vpedroso&theme=react-dark)
 
 
 ---
